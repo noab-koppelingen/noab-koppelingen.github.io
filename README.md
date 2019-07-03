@@ -4,7 +4,6 @@
 
 ```bash
 sudo gem install jekyll
-sudo gem install jekyll-paginate
 sudo gem install jekyll-sitemap
 ```
 

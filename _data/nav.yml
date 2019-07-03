@@ -1,6 +1,3 @@
-# - name: Home
-#   path:
-#   section_id: home
 - name: Koppelingen
   path: koppelingen
   section_id: koppelingen
@@ -11,8 +8,6 @@
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
-    # - name: Kassa koppelingen
-    #   path: kassa-koppelingen
 - name: Ervaringen
   path: ervaringen
   section_id: ervaringen
@@ -22,6 +17,3 @@
 - name: Contact
   path: contact
   section_id: contact
-- name: Blog
-  path: blog/
-  section_id: blog

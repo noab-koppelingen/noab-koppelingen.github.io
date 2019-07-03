@@ -30,7 +30,7 @@ slides:
           link_to: /ervaringen
         - text: Bekijk onze boekhoudkoppelingen
           link_to: /koppelingen
-  
+
 services:
   - icon: shopping-cart
     title: Webshop koppelingen
@@ -218,7 +218,7 @@ milestones:
   </div>
   <div class='two spacing'></div>
 </div>
-<!-- 
+<!--
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
@@ -258,68 +258,6 @@ milestones:
     {% endfor %}
   </div>
 </div> -->
-
-<div class='full' style='background: #fff'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html title="Recente blogs" %}
-      <div class='spacing'></div>
-      <p>
-        <!--Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.-->
-      </p>
-      <div class='two spacing'></div>
-    </div>
-  </div>
-
-  <div class='row'>
-    {% for post in site.posts %}
-      {% if forloop.index > 3 %}
-        {% break %}
-      {% endif %}
-
-      <div class='large-4 medium-4 columns'>
-        <div class='mod modBlogPost'>
-          {% for image in post.images %}
-            {% unless forloop.first %}
-              {% break %}
-            {% endunless %}
-            <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
-          {% endfor %}
-          <div class='content'>
-            <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-            <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-            <p>{{post.excerpt}}</p>
-            <!--
-              <div class="tags">
-                {% for cat in post.categories %}
-                  <a href="#">{{cat | capitalize}}</a>
-                  {% unless forloop.last %}
-                    ,
-                  {% endunless %}
-                {% endfor %}
-              </div>
-            -->
-          </div>
-        </div>
-      </div>
-
-    {% endfor %}
-
-  </div>
-
-
-  <div class='two spacing'></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <p class='centered-text'>
-        <a class='button' href='/blog'>Meer blogs</a>
-      </p>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-
-</div>
-
 
 {% include our-customers.html %}
 
