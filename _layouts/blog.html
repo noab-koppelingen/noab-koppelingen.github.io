@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+
+<div class='full parallax' style='background-image: url({{site.url}}/images/@stock/); color: #0D1826;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Blog" tagline="Lees alles over de laatste koppelingen, ontwikkelingen en veel meer." color="#0D1826" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-9 columns'>
+
+      {{content}}
+
+      {% if paginator %}
+        <div class="pager">
+          {% if paginator.next_page %}
+            {% if paginator.next_page == 1 %}
+              <a href="/blog" class="older">Vorige berichten</a>
+            {% else %}
+              <a href="/blog/page{{ paginator.next_page }}" class="older">Vorige berichten</a>
+            {% endif %}
+          {% else %}
+            <span class="older">Vorige berichten</span>
+          {% endif %}
+          {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+              <a href="/blog" class="newer">Volgende berichten</a>
+            {% else %}
+              <a href="/blog/page{{ paginator.previous_page }}" class="newer">Volgende berichten</a>
+            {% endif %}
+          {% else %}
+            <span class="newer">Volgende berichten</span>
+          {% endif %}
+        </div>
+      {% endif %}
+
+
+      <div class='four spacing'></div>
+    </div>
+    <div class='large-3 columns' id='sidebar'>
+      {% include sidebar.html %}
+      <div class='four spacing'></div>
+    </div>
+  </div>
+</div>
