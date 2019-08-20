@@ -8,9 +8,6 @@
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
-- name: Ervaringen
-  path: ervaringen
-  section_id: ervaringen
 - name: Prijzen
   path: prijzen
   section_id: prijzen
