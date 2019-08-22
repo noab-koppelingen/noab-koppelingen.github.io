@@ -12,8 +12,8 @@ excerpt: Verkoopfacturen vanuit Simplicate worden overgeheveld als verkoopfactur
 
 developer: Combidesk  
 developer-url: https://combidesk.com
-price-per-month: 12
-price-per-year: 120
+price-per-month: 15
+price-per-year: 150
 trial-days: 30
 
 manual-url: 
