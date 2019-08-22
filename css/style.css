@@ -626,7 +626,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .top-bar-section ul li > a {
   font-family: Khand, serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .centered-text {
@@ -2402,7 +2402,7 @@ form input.error, form textarea.error {
 }
 .modDefaultSlider .sequence .small-title h2 {
   font-size: 1.28571rem;
-  font-weight: normal;
+  font-weight: 500;
   color: #4484CE;
   letter-spacing: 2px;
   margin-bottom: 5px;
