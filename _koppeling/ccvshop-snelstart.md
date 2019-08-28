@@ -12,8 +12,8 @@ excerpt: Orders vanuit CCV Shop worden overgeheveld als facturen in SnelStart.
 
 developer: Combidesk  
 developer-url: https://combidesk.com
-price-per-month: 6
-price-per-year: 72
+price-per-month: 10
+price-per-year: 120
 trial-days: 30
 
 manual-url: https://www.ccvshop.nl/app-store-detail?id=493
