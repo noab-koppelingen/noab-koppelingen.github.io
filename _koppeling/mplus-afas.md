@@ -13,9 +13,9 @@ excerpt: Dagomzet en facturen vanuit MplusKASSA worden automatisch overgeheveld 
 
 developer: BPM Software
 developer-url: http://www.bpmsoftware.nl/
-price-per-month: 19.95
+price-per-month: 
 price-per-year: 
-initial-costs: 350
+initial-costs: 
 trial-days: 
 
 manual-url: https://www.winkelboekhouding.nl/koppeling-lightspeedposretail-exactonline.php
@@ -32,12 +32,12 @@ screenshots:
 Als ondernemer wil je resultaat zien en controle houden op de processen. BPM Software zorgt dat de boekhouding volledig automatisch up to date is. Dit kan zowel bij de eigen administratie, maar ook als deze door de accountant wordt bijgehouden. Je focust op de business, wij automatiseren de administratieve aansluiting
 
 * Bespaar tijd op je financiële administratie en zorg voor een professionele administratie.
-* Stuur je POS verkopen automatisch door naar Exact Online.
-* Geschikt voor zowel Lightspeed Retail als Lightspeed Restaurant.
+* Stuur je POS verkopen automatisch door naar AFAS Profit.
+* Synchroniseert Dagtotalen, Facturen en Openstaande posten.
 
 ---
 
 ### Hoe te installeren?
-Deze koppeling kent een gratis proefperiode van 30 dagen. De gratis proefperiode vraag je aan via [www.winkelboekhouding.nl](http://www.winkelboekhouding.nl/). Als je op de knop Activeer nu de koppeling klikt start je de installatie via eenvoudige invoerschermen. De installatie is normaal gesproken binnen 5 minuten afgerond.
-
+Deze koppeling is gebouwd door BPM Software 
+Voor ondersteuning, stuur een e-mail naar [info@bpmsoftware.nl](mailto:info@bpmsoftware.nl) of bel met 085 2020 920.
 --
