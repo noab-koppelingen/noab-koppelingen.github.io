@@ -12,10 +12,10 @@ excerpt: Orders vanuit Lightspeed Retail kassa worden automatisch overgeheveld a
 
 developer: Webwinkelfacturen
 developer-url: https://www.winkelboekhouding.nl/index.php
-price-per-month: 15
-price-per-year: 180
-initial-costs: 350
-trial-days: 30
+price-per-month: 
+price-per-year: 
+initial-costs: 
+trial-days: 
 
 manual-url: https://www.winkelboekhouding.nl/koppeling-lightspeedposretail-exactonline.php
 privacy-url: https://faq.webwinkelfacturen.nl/content/36/135/nl/avg-hebben-jullie-een-verwerkers_overeenkomst.html
