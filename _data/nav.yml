@@ -8,6 +8,8 @@
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
+    - name: Kassa koppelingen
+      path: kassa-koppelingen
 - name: Prijzen
   path: prijzen
   section_id: prijzen
