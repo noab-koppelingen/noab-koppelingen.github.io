@@ -6,7 +6,7 @@ from: ccvshop
 to: exactonline
 publish: false
 
-install-url: hhttps://www.ccvshop.nl/app-store-detail?id=11800
+install-url: https://www.ccvshop.nl/app-store-detail?id=11800
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
 excerpt: Orders vanuit CCV Shop worden overgeheveld als facturen in ExactOnline. 
