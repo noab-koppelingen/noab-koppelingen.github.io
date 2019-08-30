@@ -4,7 +4,7 @@ link_to: /koppeling/ccvshop-exactonline
 layout: koppeling
 from: ccvshop
 to: exactonline
-publish: false
+publish: true
 
 install-url: https://www.ccvshop.nl/app-store-detail?id=11800
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
