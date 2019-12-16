@@ -4,7 +4,7 @@ link_to: /koppeling/exactonline-nextens
 layout: koppeling
 from: exactonline
 to: nextens
-publish: true
+publish: false
 
 install-url: https://files.exact.com/static/nl/pdf/Koppeling%20Elsevier%20Nextens%20instructie%20XML%20schema.pdf
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
