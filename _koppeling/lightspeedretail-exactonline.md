@@ -1,5 +1,5 @@
 ---
-title: Lightspeed Retail ExactOnline koppeling
+title: Lightspeed Retail Exact Online koppeling
 link_to: /koppeling/lightspeedretail-exactonline
 layout: koppeling
 from: lightspeedretail

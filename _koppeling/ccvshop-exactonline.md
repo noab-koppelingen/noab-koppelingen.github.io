@@ -1,5 +1,5 @@
 ---
-title: CCV Shop ExactOnline koppeling
+title: CCV Shop Exact Online koppeling
 link_to: /koppeling/ccvshop-exactonline
 layout: koppeling
 from: ccvshop

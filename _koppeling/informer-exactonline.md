@@ -1,5 +1,5 @@
 ---
-title: InformerOnline ExactOnline koppeling
+title: InformerOnline Exact Online koppeling
 link_to: /koppeling/informer-exactonline
 layout: koppeling
 from: informer

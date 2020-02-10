@@ -1,5 +1,5 @@
 ---
-title: WooCommerce ExactOnline koppeling
+title: WooCommerce Exact Online koppeling
 link_to: /koppeling/woocommerce-exactonline
 layout: koppeling
 from: woocommerce

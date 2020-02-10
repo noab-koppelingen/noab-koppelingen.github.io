@@ -1,5 +1,5 @@
 ---
-title: ExactOnline koppelingen
+title: Exact Online koppelingen
 key: exactonline
 image: /images/@stock/Logos/exactonline-koppelingen.png
 link_to: /koppelingen/exactonline

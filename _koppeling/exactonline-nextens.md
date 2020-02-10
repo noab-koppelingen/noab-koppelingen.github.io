@@ -1,5 +1,5 @@
 ---
-title: ExactOnline Nextens koppeling
+title: Exact Online Nextens koppeling
 link_to: /koppeling/exactonline-nextens
 layout: koppeling
 from: exactonline
