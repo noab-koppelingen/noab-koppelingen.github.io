@@ -4,7 +4,7 @@ link_to: /koppeling/exactonline-nextens
 layout: koppeling
 from: exactonline
 to: nextens
-publish: false
+publish: true
 
 install-url: https://files.exact.com/static/nl/pdf/Koppeling%20Elsevier%20Nextens%20instructie%20XML%20schema.pdf
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
@@ -13,11 +13,10 @@ excerpt: Importeer uw financiële gegevens uit Exact Online met één druk op de
 
 developer: Exact & Elsevier  
 developer-url: https://www.nextens.nl/exact-online/
-price-per-month: 0
-price-per-year: 0 
-trial-days: 0
 
-manual-url: https://files.exact.com/static/nl/pdf/Koppeling%20Elsevier%20Nextens%20instructie%20XML%20schema.pdf
+
+
+manual-url: https://helpcenter.nextens.nl/Html/portal/importeren_uit_online_administ.html
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
