@@ -4,6 +4,7 @@ link_to: /koppeling/lightspeedretail-exactonline
 layout: koppeling
 from: lightspeedretail
 to: exactonline
+publish: false
 
 install-url: https://www.lightspeedhq.nl/integraties/exact-online-for-retail-en-restaurant/
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
